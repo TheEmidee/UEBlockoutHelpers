@@ -1,0 +1,21 @@
+{
+  "FileVersion": 3,
+  "Version": 1.0,
+  "VersionName": "1.0",
+  "FriendlyName": "Blockout Helpers",
+  "Description": "A collection of assets to help create blockouts",
+  "Category": "Blockou",
+  "CreatedBy": "Michael Delva",
+  "CreatedByURL": "http://www.emidee.net",
+  "EnabledByDefault": false,
+  "CanContainContent": true,
+
+  "Modules": [
+    {
+      "Name": "BlockoutHelpers",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": []
+}
